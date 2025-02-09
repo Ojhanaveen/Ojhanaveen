@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ojhanaveen" alt="ojhanaveen" /></a> </p>
 
-- 📫 How to reach me **nk9411123@gmal.com**
+- 📫 How to reach me **nk9411123@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_3aFW4xIefBNjdUhDG2gsi30I2AlOrnH/view?usp=drive_link](https://drive.google.com/file/d/1_3aFW4xIefBNjdUhDG2gsi30I2AlOrnH/view?usp=drive_link)
 
