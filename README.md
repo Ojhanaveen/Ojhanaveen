@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
-<h3 align="center">A passionate Fresher from India</h3>
+<h3 align="center">A passionate Fresher(SDE) from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojhanaveen&label=Profile%20views&color=0e75b6&style=flat" alt="ojhanaveen" /> </p>
 
