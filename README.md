@@ -1,12 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
-<h3 align="center">A passionate Fresher(SDE) from India</h3>
+<h3 align="center">A passionate Fresher from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojhanaveen&label=Profile%20views&color=0e75b6&style=flat" alt="ojhanaveen" /> </p>
 
 - 📫 How to reach me **nk9411123@gmal.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_3aFW4xIefBNjdUhDG2gsi30I2AlOrnH/view?usp=drive_link](https://drive.google.com/file/d/1_3aFW4xIefBNjdUhDG2gsi30I2AlOrnH/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KsEkmPVGwfklGd0gGUBcqx1mdg4E5eSS/view?usp=drive_link](https://drive.google.com/file/d/1KsEkmPVGwfklGd0gGUBcqx1mdg4E5eSS/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
