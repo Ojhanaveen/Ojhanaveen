@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nk9411123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Gkzgr1Q7pe7_9r-z7aSMWcS4RT99vC7R/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1keKKNkjkDdA5VRIGaJhT7P63nC3IphU6/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
